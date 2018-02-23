@@ -2,9 +2,11 @@
 
 This repository contains the digital signatures of B612 Asteroid Institute Contributor License Agreements.
 
-## How to sign
+## How to submit a Contributor License Agreement
 
-Fork this repository, and then:
+***First of all: Don't Panic (tm) -- it's easy! 5 minutes tops!***
+
+Now for the instructions: Fork this repository, and then:
 1. Using the GitHub web user interface, create a new file named `submissions/$USERNAME.md` (where `$USERNAME` is your GitHub username), containing **EXACTLY** one of the the following texts:
 
     - For contributions by individuals (i.e., the work to which you personally hold the copyright):
