@@ -5,12 +5,25 @@ This repository contains the digital signatures of B612 Asteroid Institute Contr
 ## How to sign
 
 Fork this repository, and then:
-1. Using the GitHub web user interface, create a new file named `submissions/$USERNAME.md` (where `$USERNAME` is your GitHub username), containing **EXACTLY** the following text:
-```
-I, <MY NAME>, the author of this commit, hereby agree to the "B612 Asteroid Institute Entity Contributor 
-License Agreement" as given in the CLA-INDIVIDUAL.md file included in this repository.
-```
-where `<MY NAME>` must be replaced by your legal name.
+1. Using the GitHub web user interface, create a new file named `submissions/$USERNAME.md` (where `$USERNAME` is your GitHub username), containing **EXACTLY** one of the the following texts:
+
+    - For contributions by individuals (i.e., the work to which you personally hold the copyright):
+        ```
+        I, <MY NAME>, the author of this commit, hereby sign the "B612 Asteroid Institute Individual Contributor 
+        License Agreement" as given in the CLA-INDIVIDUAL.md file included in this repository at the time of
+        this pull request.
+        ```
+        where `<MY NAME>` must be replaced by your legal name.
+
+    - For contributions by legal entities (i.e., companies):
+        ```
+        On behalf of <ENTITY NAME>, I, <MY NAME>, the author of this commit, hereby sign the "B612 Asteroid 
+        Institute Entity Contributor License Agreement" as given in the CLA-ENTITY.md file included in this
+        repository at the time of this pull request.
+        ```
+        where `<MY NAME>` must be replaced by your legal name and `<ENTITY NAME>` by the name of the entity
+        you represent. Note that you must have the legal authority to enter into this Agreement on behalf
+        of the Entity.
 
 2. Submit a pull request with that change.
 
