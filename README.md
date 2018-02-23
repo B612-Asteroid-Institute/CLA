@@ -11,7 +11,8 @@ I, <MY NAME>, the author of this commit, hereby agree to the "B612 Asteroid Inst
 License Agreement" as given in the CLA-INDIVIDUAL.md file included in this repository.
 ```
 where `<MY NAME>` must be replaced by your legal name.
-1. Submit a pull request with that change.
+
+2. Submit a pull request with that change.
 
 Note: It is important that you create the file using GitHub's web interface. That way, your commit will be signed by GitHub's GPG digital signature key, verifying it it was you who created the commit.
 
