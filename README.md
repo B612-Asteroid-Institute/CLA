@@ -11,17 +11,15 @@ Now for the instructions: Fork this repository, and then:
 
     - For contributions by individuals (i.e., the work to which you personally hold the copyright):
         ```
-        I, <MY NAME>, the author of this commit, hereby sign the "B612 Asteroid Institute Individual Contributor 
-        License Agreement" as given in the CLA-INDIVIDUAL.md file included in this repository at the time of
-        this pull request.
+        I, <MY NAME>, the author of this commit, hereby enter the "B612 Asteroid Institute Individual Contributor 
+        License Agreement" as given in the CLA-INDIVIDUAL.md file present on this commit.
         ```
         where `<MY NAME>` must be replaced by your legal name.
 
     - For contributions by legal entities (i.e., companies):
         ```
         On behalf of <ENTITY NAME>, I, <MY NAME>, the author of this commit, hereby sign the "B612 Asteroid 
-        Institute Entity Contributor License Agreement" as given in the CLA-ENTITY.md file included in this
-        repository at the time of this pull request.
+        Institute Entity Contributor License Agreement" as given in the CLA-ENTITY.md file present on this commit.
         ```
         where `<MY NAME>` must be replaced by your legal name and `<ENTITY NAME>` by the name of the entity
         you represent. Note that you must have the legal authority to enter into this Agreement on behalf
