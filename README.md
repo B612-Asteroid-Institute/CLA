@@ -1,4 +1,4 @@
-# B612 Asteroid Institute Contributor License Agreements Repository
+# B612 Foundation Asteroid Institute Contributor License Agreements Repository
 
 This repository contains the digital signatures of B612 Foundation Asteroid Institute Contributor License Agreements.
 
