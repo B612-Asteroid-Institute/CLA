@@ -1,6 +1,6 @@
 # B612 Asteroid Institute Contributor License Agreements Repository
 
-This repository contains the digital signatures of B612 Asteroid Institute Contributor License Agreements.
+This repository contains the digital signatures of B612 Foundation Asteroid Institute Contributor License Agreements.
 
 ## How to submit a Contributor License Agreement
 
@@ -11,7 +11,7 @@ Now for the instructions: Fork this repository, and then:
 
     - For contributions by individuals (i.e., the work to which you personally hold the copyright):
         ```
-        I, <MY NAME>, the author of this commit, hereby enter the "B612 Asteroid Institute Individual Contributor 
+        I, <MY NAME>, the author of this commit, hereby enter the "B612 Foundation Asteroid Institute Individual Contributor 
         License Agreement" as given in the CLA-INDIVIDUAL.md file present on this commit.
         ```
         where `<MY NAME>` must be replaced by your legal name.
